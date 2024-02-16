@@ -1,0 +1,13 @@
+openai==0.27.6
+streamlit==1.28.1
+pandas==1.5.3
+numpy==1.24.2
+chromadb==0.3.29
+tiktoken==0.5.2
+pysqlite3-binary
+langchain==0.0.348
+tqdm
+plotly
+Pillow
+python-math
+futures
